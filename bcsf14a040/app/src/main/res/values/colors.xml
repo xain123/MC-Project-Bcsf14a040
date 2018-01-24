@@ -3,8 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="theamColor">#15ac1f</color>
-    <color name="selecedButton">#037b0b</color>
-    <color name="theamColor2">#199b10</color>
+    <color name="theamColor">#5ecc62</color>
+    <color name="selecedButton">#00ad45</color>
+    <color name="theamColor2">#00ad45</color>
     <color name="splash">#ffffff</color>
+    <color name="blocked">#ffaaaa</color>
 </resources>
