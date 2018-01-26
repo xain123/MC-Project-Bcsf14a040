@@ -7,9 +7,9 @@ My shoper is like a personal cart user can perforn all crud opresions on its pro
 
 *************************** Unique Features *******************************
 
-1)User can export its data to an excel sheet.
+1)User can export its data to an excel sheet. using permissions.
 
-2)User can upload images for the products.
+2)User can upload images for the products. using permissions.
 
 3)Databse handling on admin side. Resource: (https://github.com/sanathp/DatabaseManager_For_Android)
 
